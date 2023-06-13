@@ -1,0 +1,10 @@
+body{
+
+    background: #E9ECEF;
+}
+.mx-2 {
+
+  margin: 30px;
+  margin:30px !important;
+  margin-right: ($spacer * .5) !important;
+  }
